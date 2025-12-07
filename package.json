@@ -44,8 +44,8 @@
   },
   "homepage": "https://github.com/DMBerlin/json-casefy#readme",
   "devDependencies": {
+    "@commitlint/config-conventional": "^20.2.0",
     "@commitlint/cli": "^20.2.0",
-    "@commitlint/config-conventional": "^19.8.1",
     "@types/jest": "^30.0.0",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
